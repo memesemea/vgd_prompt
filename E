@@ -1,0 +1,4 @@
+//This is my code for feb 12
+//We learned about different character types
+Console.WriteLine('b');
+Console.WriteLine("Hello World!");
